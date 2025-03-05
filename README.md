@@ -133,29 +133,29 @@ Other parameters can be provided via environment variables to avoid interactive 
 
 Variables:
   
-  DEBUG_HTTP                                       Same as -d, --debugHTTP
+  DEBUG_HTTP                                                        Same as -d, --debugHTTP
   
-  PORT                                             Same as -p, --port
+  PORT                                                              Same as -p, --port
   
-  TEMPLATE                                         Same as -t, --template
+  TEMPLATE                                                          Same as -t, --template
   
-  TITLE                                            Provide the group title or the page title
+  TITLE                                                             Provide the group title or the page title
   
-  REDIRECT                                         Provide the URL to redirect the user to, after the job is done
+  REDIRECT                                                          Provide the URL to redirect the user to, after the job is done
   
-  IMAGE                                            Provide the image to use, can either be remote (http or https) or local
+  IMAGE                                                             Provide the image to use, can either be remote (http or https) or local
   
-                                                   Note : Remote image will be downloaded locally during the startup
+                                                  
                                                    
-  DESC                                             Provide the description of the item (group or webpage depending on the template)
+  DESC                                                              Provide the description of the item (group or webpage depending on the template)
   
-  SITENAME                                         Provide the name of the website
+  SITENAME                                                          Provide the name of the website
   
-  DISPLAY_URL                                      Provide the URL to display on the page
+  DISPLAY_URL                                                       Provide the URL to display on the page
   
-  MEM_NUM                                          Provide the number of group membres (Telegram so far)
+  MEM_NUM                                                           Provide the number of group membres (Telegram so far)
   
-  ONLINE_NUM                                       Provide the number of the group online members (Telegram so far)
+  ONLINE_NUM                                                        Provide the number of the group online members (Telegram so far)
   
  
                         
@@ -210,6 +210,9 @@ cloudflare and open with gdebi to install)
 ![Screenshot_2025-02-28_12_31_28](https://github.com/user-attachments/assets/1381bd06-fb7e-44dd-a35b-f57405381a85)
 
 #Step 11:- Access the Link
+
+![Screenshot_2025-02-28_12_30_56](https://github.com/user-attachments/assets/c2b97ff4-6faa-4db1-b7cf-509a4db6068f)
+
 
 
 
