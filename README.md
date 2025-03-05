@@ -134,7 +134,7 @@ Other parameters can be provided via environment variables to avoid interactive 
 Variables:
   
   DEBUG_HTTP                                  
-  Same as -d, --debugHTTP
+                                                                    Same as -d, --debugHTTP
   
   PORT                                                              Same as -p, --port
   
