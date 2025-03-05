@@ -145,12 +145,14 @@ https://github.com/saurabhchate1999/locationtracker.git
 #Step 5:- Run the tool 
 "sudo python3 seeker.py"
 
-![Screenshot_2025-02-28_12_31_59](https://github.com/user-attachments/assets/79b82e6d-bbab-4c8f-9a04-2a0174a483bb)
+![Screenshot_2025-02-28_12_31_59](https://github.com/user-attachments/assets/22942827-d0d5-4166-9aec-321fcc516cc2)
+
 
 
 #Step 5:- Choose any template or you can customize your own template
 
-![Screenshot_2025-02-28_12_31_15](https://github.com/user-attachments/assets/4899bf7c-37d3-491b-b6a1-d835a800b4b3)
+![Screenshot_2025-02-28_12_31_15](https://github.com/user-attachments/assets/d7d26c47-8aa5-44b9-96dc-23962d1700af)
+
 
 
 #Step 6:- Enter the details and click Enter
@@ -159,7 +161,8 @@ https://github.com/saurabhchate1999/locationtracker.git
 Cloudflare download link https://developers.cloudflare.com/cloudflare
 one/connections/connect-networks/downloads/
 
-![Screenshot 2025-03-05 144716](https://github.com/user-attachments/assets/db248346-b960-43ac-b9ec-c6bae4fbd5dd)
+![Screenshot 2025-03-05 144716](https://github.com/user-attachments/assets/99d74554-587e-4914-80ab-7643a3057d2b)
+
 
 #Download “.Deb” type for linux 
 
@@ -169,17 +172,20 @@ one/connections/connect-networks/downloads/
 #step 9:- open the downloaded cloudflare file using gdebi and install cloudflare(right click on 
 cloudflare and open with gdebi to install)
 
-![Screenshot_2025-03-05_14_47_48](https://github.com/user-attachments/assets/63a1b390-c4c9-40ef-a8f7-b3adb5f91312)
+![Screenshot_2025-03-05_14_47_48](https://github.com/user-attachments/assets/f6cd9fc4-f858-4312-9fcf-eb299479a594)
+
 
 
 #Step 10:-to host the link publicly using cloudflare type  
 "cloudflared -url localhost:8080"
 
-![Screenshot_2025-02-28_12_31_28](https://github.com/user-attachments/assets/1381bd06-fb7e-44dd-a35b-f57405381a85)
+![Screenshot_2025-02-28_12_31_28](https://github.com/user-attachments/assets/e2ad8189-9f29-4a44-8ad8-ec1b8d35b2e4)
+
 
 #Step 11:- Access the Link
 
-![Screenshot_2025-02-28_12_30_56](https://github.com/user-attachments/assets/c2b97ff4-6faa-4db1-b7cf-509a4db6068f)
+
+![Screenshot_2025-02-28_12_30_56](https://github.com/user-attachments/assets/0b8c6b3a-1fab-4860-aa18-2f88bc0426a5)
 
 
 
