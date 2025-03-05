@@ -125,42 +125,9 @@ options:
 
           
 #########################
-# Environment Variables #
-#########################
 
-Some of the options above can also be enabled via environment variables, to ease deployment.
-Other parameters can be provided via environment variables to avoid interactive mode.
-
-Variables:
-  
-  DEBUG_HTTP                                  
-                                                                    Same as -d, --debugHTTP
-  
-  PORT                                                              Same as -p, --port
-  
-  TEMPLATE                                                          Same as -t, --template
-  
-  TITLE                                                             Provide the group title or the page title
-  
-  REDIRECT                                                          Provide the URL to redirect the user to, after the job is done
-  
-  IMAGE                                                             Provide the image to use, can either be remote (http or https) or local
-  
-                                                  
-                                                   
-  DESC                                                              Provide the description of the item (group or webpage depending on the template)
-  
-  SITENAME                                                          Provide the name of the website
-  
-  DISPLAY_URL                                                       Provide the URL to display on the page
-  
-  MEM_NUM                                                           Provide the number of group membres (Telegram so far)
-  
-  ONLINE_NUM                                                        Provide the number of the group online members (Telegram so far)
-  
- 
                         
-######################Installation Guide
+######################Installation Guide#
 
 #Step 1:- Download the Seeker tool from Git Hub 
 
