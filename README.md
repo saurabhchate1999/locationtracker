@@ -122,13 +122,8 @@ options:
   
   -d,        --debugHTTP                                    Disable auto http --> https redirection for testing purposes 
   
-                                      
-            --telegram                            Send info to a telegram bot, provide telegram token and chat to use
-                
-                                                  format = token:chatId separated by a colon
-            --webhook                             Send events to a webhook endpoint to be processed
-                                                  Note : endpoint must be unauthenticated and accept POST request
 
+          
 #########################
 # Environment Variables #
 #########################
@@ -162,8 +157,7 @@ Variables:
   
   ONLINE_NUM                                       Provide the number of the group online members (Telegram so far)
   
-  TELEGRAM                                         Provide telegram token and chat to use to send info to a telegram bot
-  
+ 
                         
 ######################Installation Guide
 
