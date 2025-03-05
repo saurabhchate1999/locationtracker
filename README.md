@@ -126,39 +126,55 @@ Variables:
                         Note : endpoint should be unauthenticated and accept POST method
                         
 
-##################
-# Usage Examples #
-##################
+######################
+#Step 1:- Download the Seeker tool from Git Hub 
+https://github.com/thewhiteh4t/seeker.git
 
-# Step 1 : In first terminal
-$ python3 seeker.py
+#Step 2:- install tool in kali using Git Clone 
+"Git Clone https://github.com/thewhiteh4t/seeker.git" 
 
-# Step 2 : In second terminal start a tunnel service such as ngrok
-$ ./ngrok http 8080
+#Step 3:- Go to the Download folder 
+"cd Downloads" 
 
-###########
-# Options #
-###########
+#Step 4:- cd Seeker 
 
-# Ouput KML File for Google Earth
-$ python3 seeker.py -k <filename>
+#Step 5:- Run the tool 
+"sudo python3 seeker.py"
 
-# Use Custom Port
-$ python3 seeker.py -p 1337
-$ ./ngrok http 1337
+![Screenshot_2025-02-28_12_31_59](https://github.com/user-attachments/assets/79b82e6d-bbab-4c8f-9a04-2a0174a483bb)
 
-# Pre-select a specific template
-$ python3 seeker.py -t 1
 
-################
-# Docker Usage #
-################
+#Step 5:- Choose any template or you can customize your own template
 
-# Step 1
-$ docker network create ngroknet
+![Screenshot_2025-02-28_12_31_15](https://github.com/user-attachments/assets/4899bf7c-37d3-491b-b6a1-d835a800b4b3)
 
-# Step 2
-$ docker run --rm -it --net ngroknet --name seeker thewhiteh4t/seeker
 
-# Step 3
-$ docker run --rm -it --net ngroknet --name ngrok wernight/ngrok ngrok http seeker:8080
+#Step 6:- Enter the details and click Enter
+
+#step 7:- To host the link publicly use cloudflared 
+Cloudflare download link https://developers.cloudflare.com/cloudflare
+one/connections/connect-networks/downloads/
+
+![Screenshot 2025-03-05 144716](https://github.com/user-attachments/assets/db248346-b960-43ac-b9ec-c6bae4fbd5dd)
+
+#Download “.Deb” type for linux 
+
+#Step 8:- install gdebi 
+"sudo apt install gdebi" 
+
+#step 9:- open the downloaded cloudflare file using gdebi and install cloudflare(right click on 
+cloudflare and open with gdebi to install)
+
+![Screenshot_2025-03-05_14_47_48](https://github.com/user-attachments/assets/63a1b390-c4c9-40ef-a8f7-b3adb5f91312)
+
+
+#Step 10:-to host the link publicly using cloudflare type  
+"cloudflared -url localhost:8080"
+
+![Screenshot_2025-02-28_12_31_28](https://github.com/user-attachments/assets/1381bd06-fb7e-44dd-a35b-f57405381a85)
+
+#Step 11:- Access the Link
+
+
+
+
